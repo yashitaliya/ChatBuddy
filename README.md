@@ -35,11 +35,9 @@ ChatBuddy is designed to bring the core of modern messaging into a lightweight A
 ---
 ## 📸 Screenshots
 
-> *(Add screenshots of your app below for better presentation. Include screens such as: Login, Signup, User List, Chat Window)*
-
-| Login Screen | User List | Chat Window |
-|--------------|-----------|-------------|
-| ![login](screenshots/login.png) | ![userlist](screenshots/userlist.png) | ![chat](screenshots/chat.png) |
+| Login Screen | Signup Screen | User List | Chat Window | Logout |
+|--------------|---------------|-----------|-------------|--------|
+| ![login](https://github.com/yashitaliya/ChatBuddy/blob/master/login.png?raw=true) | ![Signup](https://github.com/yashitaliya/ChatBuddy/blob/master/sign_up.png?raw=true) | ![userlist](https://github.com/yashitaliya/ChatBuddy/blob/master/list.png?raw=true) | ![chat](https://github.com/yashitaliya/ChatBuddy/blob/master/message_screen.png?raw=true) | ![logout](https://github.com/yashitaliya/ChatBuddy/blob/master/log_out.png?raw=true) |
 
 ---
 ## 🔗 Links
