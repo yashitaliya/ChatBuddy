@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "779448141415",
+    "firebase_url": "https://chatbuddy-ced11-default-rtdb.firebaseio.com",
+    "project_id": "chatbuddy-ced11",
+    "storage_bucket": "chatbuddy-ced11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779448141415:android:324fce04c8c504ef4776c2",
+        "android_client_info": {
+          "package_name": "com.example.chatbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBomg-fOxxDEUsQ3bOoXQQF1ZcpUvhWRUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

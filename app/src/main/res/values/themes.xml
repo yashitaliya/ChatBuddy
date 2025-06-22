@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ChatBuddy" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ChatBuddy" parent="Base.Theme.ChatBuddy" />
+
+    <style name="dialoge">
+        <item name="android:windowBackground">@drawable/empty_backgroud</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowMinWidthMajor">80%</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>
